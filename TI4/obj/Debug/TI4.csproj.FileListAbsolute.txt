@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TI4\TI4\bin\Debug\TI4.exe.config
+C:\Users\User\source\repos\TI4\TI4\bin\Debug\TI4.exe
+C:\Users\User\source\repos\TI4\TI4\bin\Debug\TI4.pdb
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.DSAForm.resources
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.Properties.Resources.resources
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.exe
+C:\Users\User\source\repos\TI4\TI4\obj\Debug\TI4.pdb
